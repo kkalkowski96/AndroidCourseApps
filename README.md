@@ -1,6 +1,8 @@
 # AndroidCourseApps
 Aplikacje z kursu Google
 
+Każda aplikacja znadjuję się na oddzielnym branchu.
+
 <h4>Nazwa aplkacji: DiceRoller</h4>
 Wykorzystane biblioteki: 
 -standardowe biblioteki Kotlin
