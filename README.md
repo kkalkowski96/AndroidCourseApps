@@ -5,7 +5,7 @@ Każda aplikacja znadjuję się na oddzielnym branchu.
 
 <h4>Nazwa aplkacji: DiceRoller</h4>
 Wykorzystane biblioteki: 
--standardowe biblioteki Kotlin
+<li>standardowe biblioteki Kotlin</li>
 
 Cel aplikacji:
 Aplikacja wykonuje prostą funckę po wciśnięciu przycisku. Funkcja polega na wylosowaniu liczny całkowitej z określonego przedizału. W zależności od wylosowanej liczby na ekranie wyświetlana jest odpowiednia grafika.
