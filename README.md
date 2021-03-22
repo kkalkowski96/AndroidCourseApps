@@ -12,11 +12,12 @@ Aplikacja wykonuje prostą funckę po wciśnięciu przycisku. Funkcja polega na
 
 
 <h4>Nazwa aplkacji: WordsApp</h4>
-Wykorzystane biblioteki/technologie: 
--standardowe biblioteki Kotlin
--kolekcje w kotlinie
--wykorzystanie Navigation Components wraz z Safe Arguments
-
+Wykorzystane biblioteki/technologie:
+<ul>
+  <li>standardowe biblioteki Kotlin</li>
+<li>kolekcje w kotlinie</li>
+<li>wykorzystanie Navigation Components wraz z Safe Arguments</li>
+</ul>
 Cel aplikacji:
 Aplikacja wyświetla przyciski zawierające litery alfabetu. Po wciśnięciu litery użytkownik przenoszony jest do widoku, w którym wyświetlane jest 5 słów zaczynających się na literę wybraną przez użytkownika. Następnie po wybraniu konkretnego słowa, wyszukiwana jest jego definicja w przeglądarce internetowej Chrome.
 
