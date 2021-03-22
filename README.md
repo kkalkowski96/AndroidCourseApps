@@ -46,12 +46,13 @@ Aplikacja wyświetla 10 słów z pomieszanymi literami. Przy użyciu live data o
 
 <h4>Nazwa aplkacji: CupcakeApp</h4>
 Wykorzystane biblioteki: 
--standardowe biblioteki Kotlin
--architecture components
--live data
--wykorzystanie Navigation Components
--data binding
-
-Cel aplikacji:
+<ul>
+  <li>standardowe biblioteki Kotlin</li>
+  <li>architecture components</li>
+  <li>live data</li>
+  <li>wykorzystanie Navigation Components</li>
+  <li>data binding</li>
+</ul>
+<p>Cel aplikacji:</p>
 Aplikacja symuluje przygtowoanie zamówienia w sklepie internetowym. Użytkownik wybiera ilość i rodzaj babeczek oraz pozawala wybrać datę dostarczenia zamówienia. Następnie oblicza wartość końcową oraz przygotowuje do wysłania pocztą elektroniczną szablon maila zawierającego stworzone zamówienie. Nawigacja odbywa się przy pomocy Navigation Components, natomiast dane współdzielone są w shared view model.
 
