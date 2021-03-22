@@ -8,7 +8,7 @@ Wykorzystane biblioteki:
 <ul>
 <li>standardowe biblioteki Kotlin</li>
 </ul>
-Cel aplikacji:
+<p>Cel aplikacji:</p>
 Aplikacja wykonuje prostą funckę po wciśnięciu przycisku. Funkcja polega na wylosowaniu liczny całkowitej z określonego przedizału. W zależności od wylosowanej liczby na ekranie wyświetlana jest odpowiednia grafika.
 
 
@@ -19,7 +19,7 @@ Wykorzystane biblioteki/technologie:
 <li>kolekcje w kotlinie</li>
 <li>wykorzystanie Navigation Components wraz z Safe Arguments</li>
 </ul>
-Cel aplikacji:
+<p>Cel aplikacji:</p>
 Aplikacja wyświetla przyciski zawierające litery alfabetu. Po wciśnięciu litery użytkownik przenoszony jest do widoku, w którym wyświetlane jest 5 słów zaczynających się na literę wybraną przez użytkownika. Następnie po wybraniu konkretnego słowa, wyszukiwana jest jego definicja w przeglądarce internetowej Chrome.
 
 <h4>Nazwa aplkacji: TipCalculator</h4>
@@ -28,7 +28,7 @@ Wykorzystane biblioteki:
   <li>standardowe biblioteki Kotlin</li>
   <li>material design</li>
 </ul>
-Cel aplikacji:
+<p>Cel aplikacji:</p>
 Aplikacja wykonuje proste obliczenia matematyczne na danych wprowadzonych przez użytkownika. Design aplikacji stworzony został przy pomocy komponentów zawartych w bibliotece material design.
 
 
@@ -40,7 +40,7 @@ Wykorzystane biblioteki:
   <li>live data</li>
   <li>wykorzystanie Navigation Components</li>
 </ul>
-Cel aplikacji:
+<p>Cel aplikacji:</p>
 Aplikacja wyświetla 10 słów z pomieszanymi literami. Przy użyciu live data oraz view model aplikacja oblicza punkty na podstawie iloścu poprawnie wprowadzonych słów.
 
 
